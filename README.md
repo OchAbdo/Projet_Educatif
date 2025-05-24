@@ -36,4 +36,4 @@ Cette interface permet de tester les différentes routes de l'API et de comprend
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à nos contacter :
 
-Email : ochabdo02@gmail.com , NadimJebali.0@gmail.com 
+Email : ochabdo02@gmail.com
